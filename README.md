@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
+# 👋 Hi there! I'm Tharindu Lakshimal
 
 Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specializing in building scalable web and mobile applications.  
 
