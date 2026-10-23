@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 ---
 
 ## 🚀 About Me  
-- 🎓 **BSc Honours in Information Technology** graduate from the University of Vavuniya.
-- 💼 Recently completed a Web Developer Internship at ServerClub.LK, where I built PHP/Laravel applications, integrated REST APIs, and managed hosting environments.
+- 🎓 **BSc Honours in Information Technology** graduate from the University of Jaffna.
+- 💼 Recently completed a Web Developer Internship at ServerClub.LK, where I built PHP/Laravel applications, integrated REST APIs, and managed **cPanel** and **Plesk** hosting environments.
 - 🌐 Transitioned from MERN to the **TALL Stack** (Tailwind CSS, Alpine.js, Laravel, Livewire), focusing on robust backend patterns and developer ergonomics. 
 - 📱 Experienced in building cross-platform mobile applications with **React Native** (like my AI expense tracker, Expendora).
 - 🤖 Active in machine learning and computer vision, utilizing Python, OpenCV, and YOLO for indoor hazard detection modeling.
@@ -24,6 +24,8 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Plesk](https://img.shields.io/badge/Plesk-52B0E8?style=for-the-badge&logo=plesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
